@@ -40,7 +40,7 @@ ul {
   width: 50%;
 }
 main {
-  background: url(https://demo.colorlib.com/wp-content/uploads/sites/59/2016/03/photo-1443527216320-7e744084f5a7-1.jpg;) no-repeat center/cover;
+  background: url(../shapely.webp) no-repeat center/cover;
   height: 90vh;
   display: flex;
   justify-content: center;
